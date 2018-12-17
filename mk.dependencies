@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "franciscofranco",
+    "repository": "beryllium",
+    "target_path": "kernel/xiaomi/beryllium",
+    "revision": "pie-rebase"
+  }
+]
